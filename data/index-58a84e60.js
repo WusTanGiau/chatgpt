@@ -918,7 +918,7 @@ if ({}.VITE_GUARD) {
 const Z = be(pt);
 Z.config.globalProperties.$window = window;
 Z.use(ye).mount("#app");
-var my_api_key = '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';
+var my_api_key = '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';
 var rate_limit = 2;
 var show_ads = true;
 var promot_link = 'https://www.facebook.com/duyvinh09';
