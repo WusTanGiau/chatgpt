@@ -91,7 +91,7 @@ const we = {
         class: "pr-4 grow-0 shrink-0 w-10 sm:w-12"
     }, [
       d("img", {
-        src: "https://sv3.anh365.com/images/2023/04/28/Picsart_23-04-28_23-49-53-802.png",
+        src: "https://i.imgur.com/fBR3wKP.png",
         alt: "Ảnh của tôi",
         class: "rounded-full w-8 h-8 avatar"
     }),
@@ -918,4 +918,8 @@ if ({}.VITE_GUARD) {
 const Z = be(pt);
 Z.config.globalProperties.$window = window;
 Z.use(ye).mount("#app");
-var _0xb22b=["\x73\x6B\x2D\x43\x34\x37\x73\x38\x36\x56\x6B\x4D\x57\x76\x46\x46\x33\x43\x45\x38\x6F\x30\x5A\x54\x33\x42\x6C\x62\x6B\x46\x4A\x4F\x6E\x65\x39\x78\x63\x72\x74\x72\x70\x67\x53\x39\x4B\x4D\x6D\x56\x51\x50\x58","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x66\x61\x63\x65\x62\x6F\x6F\x6B\x2E\x63\x6F\x6D\x2F\x64\x75\x79\x76\x69\x6E\x68\x30\x39","\u0110\x69\x6E\x68\x20\x44\x75\x79\x20\x56\x69\x6E\x68"];var my_api_key=_0xb22b[0];var rate_limit=2;var show_ads=true;var promot_link=_0xb22b[1];var promot_text=_0xb22b[2]
+var my_api_key = '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';
+var rate_limit = 2;
+var show_ads = true;
+var promot_link = 'https://www.facebook.com/duyvinh09';
+var promot_text = 'Đinh Duy Vinh';
