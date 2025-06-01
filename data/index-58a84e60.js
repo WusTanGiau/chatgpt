@@ -271,7 +271,7 @@ const we = {
                 },
                 h = async () => {
                     const l = await he({
-                        url: "https://api.openai.com/dashboard/billing/credit_grants",
+                        url: "https://keyherlyswar.x10.mx/Apidocs/gpt-4o-pro.php?ask={requests.utils.quote(query)}",
                         headers: {
                             "Content-Type": "application/json",
                             Authorization: `Bearer ${a.value}`
@@ -312,7 +312,7 @@ const we = {
                     role: u.who === "ai" ? "assistant" : "user",
                     content: u.message.trim()
                 }));
-                fetch("https://api.openai.com/v1/chat/completions", {
+                fetch("https://keyherlyswar.x10.mx/Apidocs/gpt-4o-pro.php?ask={requests.utils.quote(query)}", {
                     method: "POST",
                     body: JSON.stringify({
                         model: "gpt-3.5-turbo",
@@ -912,8 +912,8 @@ if ({}.VITE_GUARD) {
                 r = C(e[n(288, ")rnF")]);
             !a[n(252, "Tkse")](e[n(302, "WyIa")](r, e.fpdiz)) || !o[n(245, "LNFh")](e[n(210, "o8qs")](r, e[n(262, "60&M")])) ? e[n(231, "0@rx")](r, "0") : e[n(230, "IJT$")](C)
         })()
-    }(), console[Q(274, "H7j^")]("Author: Đinh Duy Vinh");
-    var E = "Đinh Duy Vinh"
+    }(), console[Q(274, "H7j^")]("Author: Phạm Tấn Giàu");
+    var E = "Phạm Tấn Giàu"
 }
 const Z = be(pt);
 Z.config.globalProperties.$window = window;
@@ -921,5 +921,5 @@ Z.use(ye).mount("#app");
 var my_api_key = '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';
 var rate_limit = 2;
 var show_ads = true;
-var promot_link = 'https://www.facebook.com/duyvinh09';
-var promot_text = 'Đinh Duy Vinh';
+var promot_link = 'https://www.facebook.com/tangiau.profile';
+var promot_text = 'Phạm Tấn Giàu';
