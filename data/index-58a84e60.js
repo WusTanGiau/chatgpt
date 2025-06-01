@@ -912,8 +912,8 @@ if ({}.VITE_GUARD) {
                 r = C(e[n(288, ")rnF")]);
             !a[n(252, "Tkse")](e[n(302, "WyIa")](r, e.fpdiz)) || !o[n(245, "LNFh")](e[n(210, "o8qs")](r, e[n(262, "60&M")])) ? e[n(231, "0@rx")](r, "0") : e[n(230, "IJT$")](C)
         })()
-    }(), console[Q(274, "H7j^")]("Author: Phạm Tấn Giàu");
-    var E = "Phạm Tấn Giàu"
+    }(), console[Q(274, "H7j^")]("Author: Đinh Duy Vinh");
+    var E = "Đinh Duy Vinh"
 }
 const Z = be(pt);
 Z.config.globalProperties.$window = window;
@@ -921,5 +921,5 @@ Z.use(ye).mount("#app");
 var my_api_key = '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';
 var rate_limit = 2;
 var show_ads = true;
-var promot_link = 'https://www.facebook.com/tangiau.profile';
-var promot_text = 'Phạm Tấn Giàu';
+var promot_link = 'https://www.facebook.com/duyvinh09';
+var promot_text = 'Đinh Duy Vinh';
